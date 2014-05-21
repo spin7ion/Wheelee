@@ -29,5 +29,5 @@ The arduino sketch is located in sketch folder.
 Documentation
 -------------
 
-[mathematical model development(Russian)](http://spin7ion.ru/ru/blog/balancerBuildSteps)
-[building of robot(Russian)](habrahabr.ru/post/220989)
+* [mathematical model development(Russian)](http://spin7ion.ru/ru/blog/balancerBuildSteps)
+* [building of robot(Russian)](habrahabr.ru/post/220989)

@@ -30,4 +30,4 @@ Documentation
 -------------
 
 * [mathematical model development(Russian)](http://spin7ion.ru/ru/blog/balancerBuildSteps)
-* [building of robot(Russian)](habrahabr.ru/post/220989)
+* [building of robot(Russian)](http://habrahabr.ru/post/220989)

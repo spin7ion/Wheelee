@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wheelee</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="W">W</string>
+    <string name="D">D</string>
+    <string name="A">A</string>
+    <string name="S">S</string>
+
+</resources>
